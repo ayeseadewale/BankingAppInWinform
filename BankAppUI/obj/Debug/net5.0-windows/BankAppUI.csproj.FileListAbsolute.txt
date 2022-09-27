@@ -1,0 +1,66 @@
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.exe
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.deps.json
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.runtimeconfig.json
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.runtimeconfig.dev.json
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.dll
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\bin\Debug\net5.0-windows\ref\BankAppUI.dll
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.pdb
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppCore.dll
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppCore.pdb
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.AssemblyReference.cache
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.AccountStatement.resources
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.Admin.resources
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.CreateAccount.resources
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.Customer.resources
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.GetAllUsers.resources
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.Register.resources
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.Transfer.resources
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.UserRole.resources
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.Home.resources
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.GenerateResource.cache
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.AssemblyInfoInputs.cache
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.AssemblyInfo.cs
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.CoreCompileInputs.cache
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.CopyComplete
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.dll
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\ref\BankAppUI.dll
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.pdb
+C:\Users\craft\source\repos\SQ010\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.genruntimeconfig.cache
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.exe
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.deps.json
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.runtimeconfig.json
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.runtimeconfig.dev.json
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.dll
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppUI.pdb
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppCore.dll
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\bin\Debug\net5.0-windows\BankAppCore.pdb
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.AssemblyReference.cache
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.AccountStatement.resources
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.Admin.resources
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.CreateAccount.resources
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.Customer.resources
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.GetAllUsers.resources
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.Register.resources
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.Transfer.resources
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.UserRole.resources
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.Home.resources
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.GenerateResource.cache
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.AssemblyInfoInputs.cache
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.AssemblyInfo.cs
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.CoreCompileInputs.cache
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.csproj.CopyComplete
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.dll
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\refint\BankAppUI.dll
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.pdb
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\BankAppUI.genruntimeconfig.cache
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppUI\obj\Debug\net5.0-windows\ref\BankAppUI.dll

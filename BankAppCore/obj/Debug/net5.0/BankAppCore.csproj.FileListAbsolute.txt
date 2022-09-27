@@ -1,0 +1,26 @@
+C:/Users/craft/source/repos/SQ010/Task Four/BankAppCore/bin/Debug/net5.0/BankAppCore.deps.json
+C:/Users/craft/source/repos/SQ010/Task Four/BankAppCore/bin/Debug/net5.0/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/Task Four/BankAppCore/bin/Debug/net5.0/ref/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/Task Four/BankAppCore/bin/Debug/net5.0/BankAppCore.pdb
+C:/Users/craft/source/repos/SQ010/Task Four/BankAppCore/obj/Debug/net5.0/BankAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/craft/source/repos/SQ010/Task Four/BankAppCore/obj/Debug/net5.0/BankAppCore.AssemblyInfoInputs.cache
+C:/Users/craft/source/repos/SQ010/Task Four/BankAppCore/obj/Debug/net5.0/BankAppCore.AssemblyInfo.cs
+C:/Users/craft/source/repos/SQ010/Task Four/BankAppCore/obj/Debug/net5.0/BankAppCore.csproj.CoreCompileInputs.cache
+C:/Users/craft/source/repos/SQ010/Task Four/BankAppCore/obj/Debug/net5.0/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/Task Four/BankAppCore/obj/Debug/net5.0/ref/BankAppCore.dll
+C:/Users/craft/source/repos/SQ010/Task Four/BankAppCore/obj/Debug/net5.0/BankAppCore.pdb
+/Users/mac/Documents/SQ010/Task Four/BankAppCore/obj/Debug/net5.0/BankAppCore.dll
+/Users/mac/Documents/SQ010/Task Four/BankAppCore/obj/Debug/net5.0/ref/BankAppCore.dll
+/Users/mac/Documents/SQ010/Task Four/BankAppCore/obj/Debug/net5.0/BankAppCore.pdb
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppCore\bin\Debug\net5.0\BankAppCore.deps.json
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppCore\bin\Debug\net5.0\BankAppCore.dll
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppCore\bin\Debug\net5.0\BankAppCore.pdb
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.AssemblyReference.cache
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfoInputs.cache
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.AssemblyInfo.cs
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.csproj.CoreCompileInputs.cache
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.dll
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\refint\BankAppCore.dll
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\BankAppCore.pdb
+C:\Users\solan\Downloads\Dacagon\C#\Task Four\Task Four\BankAppCore\obj\Debug\net5.0\ref\BankAppCore.dll

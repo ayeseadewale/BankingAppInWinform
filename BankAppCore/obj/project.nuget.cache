@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lk7TNm9AMaCmMSVVRpANXC6UymeX7Riz13xNAhuJsZICt8ivFAEoD4Ts002zWcqKkTyVpc027aEwZ/agKo9cXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\solan\\Downloads\\Dacagon\\C#\\Task Four\\BankAppUsingWinform\\BankAppCore\\BankAppCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\solan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
